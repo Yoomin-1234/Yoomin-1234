@@ -16,11 +16,25 @@
 
 <br>
 
-## 🔎 About Me
+## 📜 Education & Certifications
 
-- 데이터로 문제를 정의하고 근거 있는 결론을 도출하는 과정에 관심이 있습니다.
-- **Python 기반 데이터 수집·전처리·분석·시각화** 역량을 쌓고 있습니다.
-- 분석 과정과 결과를 프로젝트로 기록하며 빅데이터 분석가를 준비하고 있습니다.
+### Education & Training
+
+- **광운대학교** | 스포츠융합과학과 / 스포츠빅데이터 학사 졸업 *(2020.03 - 2024.02)*
+- **삼성 청년 SW·AI 아카데미(SSAFY) 16기** | Python 트랙 *(2026.07 - 2026.10 진행 중)*
+
+
+<br>
+
+### Honors & Awards
+
+- 🏆 **2023 경륜데이터 분석 경진대회 (국민체육진흥공단(KSP), 2023.10)** - *최우수상*
+
+<br>
+
+### Certifications
+
+- **빅데이터분석기사** *(한국데이터산업진흥원, 2025.07.11)*
 
 <br>
 
@@ -37,7 +51,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Interested In
+### Data Science & AI/ML
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Data%20Engineering-00A6A6?style=flat-square)
@@ -72,6 +86,7 @@
 | **Statistics** | 기술통계, 가설검정, 분석 결과 해석 |
 | **Machine Learning** | 지도·비지도 학습의 기초 및 모델 평가 |
 | **Big Data** | 대용량 데이터 처리와 데이터 파이프라인 기초 |
+| **Django** | Django의 기본 구조, URL 라우팅, 모델·뷰·템플릿을 활용한 웹 애플리케이션 개발 |
 
 <br>
 
