@@ -28,7 +28,7 @@
 
 ### Honors & Awards
 
-- 🏆 **2023 경륜데이터 분석 경진대회 (국민체육진흥공단(KSP), 2023.10)** - *최우수상*
+- 🏆 **2023 경륜데이터 분석 경진대회 (국민체육진흥공단(KSPO), 2023.10)** - *최우수상*
 
 <br>
 
@@ -68,8 +68,16 @@
 
 | 프로젝트 | 구분 / 기간 | 핵심 분석 과제 및 성과 | 기술 스택 | 링크 |
 |:---|:---:|:---|:---|:---:|
-| **경륜 데이터를 통한 결과 예측** | 경륜데이터분석경진대회 <br>2023.10 | · EDA 및 전처리<br>· 그룹화 및 시계열 분석<br>· 회귀 분석을 활용한 예측 모델링<br>*· 경륜데이터분석경진대회 최우수상*  | Python<br>Scikit-Learn<br>Jupyter | [Repo](https://github.com/Yoomin-1234/kspo_cycle.git) |
-| **Qwen3-VL 한국어 VQA 최적화** | SSAFY 16기 <br>2026.09 | ·  Direct Logit Scoring으로 파싱 에러 0% 제거<br>· OCR BBox 영역 탐색기 전환 & Cyclic TTA<br>*·  Kaggle Public Score 0.96127 달성* | Python<br>PyTorch<br>EasyOCR<br>LoRA | [Repo](https://github.com/Yoomin-1234/VQA_AI_Challenge.git) |
+| **경륜 데이터를 통한 결과 예측** | 경륜데이터분석경진대회 <br>2023.10 | · EDA 및 전처리<br>· 그룹화 및 시계열 분석<br>· 회귀 분석을 활용한 예측 모델링<br>· 경륜데이터분석경진대회 최우수상  | <code>Python</code><br>
+<code>Python</code><br>
+<code>Scikit-Learn</code><br>
+<code>Jupyter</code>
+ | [Repo](https://github.com/Yoomin-1234/kspo_cycle.git) |
+| **Qwen3-VL 한국어 VQA 최적화** | SSAFY 16기 <br>2026.09 | ·  Direct Logit Scoring으로 파싱 에러 0% 제거<br>· OCR BBox 영역 탐색기 전환 & Cyclic TTA<br>·  Kaggle Public Score 0.96127 달성 | <code>Python</code><br>
+<code>PyTorch</code><br>
+<code>EasyOCR</code><br>
+<code>LoRA</code>
+ | [Repo](https://github.com/Yoomin-1234/VQA_AI_Challenge.git) |
 
 
 > 각 행의 예시 문구를 실제 프로젝트 정보로 교체하고 Repo의 #을 저장소 주소로 변경하세요.
