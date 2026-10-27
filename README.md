@@ -56,6 +56,7 @@
 ![Big Data](https://img.shields.io/badge/Big%20Data-Data%20Engineering-00A6A6?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
 
@@ -68,15 +69,9 @@
 
 | 프로젝트 | 구분 / 기간 | 핵심 분석 과제 및 성과 | 기술 스택 | 링크 |
 |:---|:---:|:---|:---|:---:|
-| **경륜 데이터를 통한 결과 예측** | 경륜데이터분석경진대회 <br>2023.10 | · EDA 및 전처리<br>· 그룹화 및 시계열 분석<br>· 회귀 분석을 활용한 예측 모델링<br>· 경륜데이터분석경진대회 최우수상  | <code>Python</code><br>
-<code>Python</code><br>
-<code>Scikit-Learn</code><br>
-<code>Jupyter</code>
+| **경륜 데이터를 통한 결과 예측** | 경륜데이터분석경진대회 <br>2023.10 | · EDA 및 전처리<br>· 그룹화 및 시계열 분석<br>· 회귀 분석을 활용한 예측 모델링<br>· 경륜데이터분석경진대회 최우수상  | <code>Python</code><br><code>Python</code><br><code>Scikit-Learn</code><br><code>Jupyter</code>
  | [Repo](https://github.com/Yoomin-1234/kspo_cycle.git) |
-| **Qwen3-VL 한국어 VQA 최적화** | SSAFY 16기 <br>2026.09 | ·  Direct Logit Scoring으로 파싱 에러 0% 제거<br>· OCR BBox 영역 탐색기 전환 & Cyclic TTA<br>·  Kaggle Public Score 0.96127 달성 | <code>Python</code><br>
-<code>PyTorch</code><br>
-<code>EasyOCR</code><br>
-<code>LoRA</code>
+| **Qwen3-VL 한국어 VQA 최적화** | SSAFY 16기 <br>2026.09 | ·  Direct Logit Scoring으로 파싱 에러 0% 제거<br>· OCR BBox 영역 탐색기 전환 & Cyclic TTA<br>·  Kaggle Public Score 0.96127 달성 | <code>Python</code><br><code>PyTorch</code><br><code>EasyOCR</code><br><code>LoRA</code>
  | [Repo](https://github.com/Yoomin-1234/VQA_AI_Challenge.git) |
 
 
